@@ -2,6 +2,8 @@ module:
     hugoVersion:
         extended: true
         min: "0.87.0"
+    imports:
+        path: github.com/dzello/reveal-hugo
 
 params:
     mainSections:
